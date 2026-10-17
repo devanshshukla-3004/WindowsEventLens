@@ -1,0 +1,12 @@
+{
+  "events": [
+    {"event_id": 4625, "timestamp": "2026-10-17T09:00:00Z", "target_user": "administrator", "ip_address": "10.10.4.23", "computer": "LAB-WIN01", "logon_type": "3"},
+    {"event_id": 4625, "timestamp": "2026-10-17T09:00:04Z", "target_user": "administrator", "ip_address": "10.10.4.23", "computer": "LAB-WIN01", "logon_type": "3"},
+    {"event_id": 4625, "timestamp": "2026-10-17T09:00:08Z", "target_user": "administrator", "ip_address": "10.10.4.23", "computer": "LAB-WIN01", "logon_type": "3"},
+    {"event_id": 4625, "timestamp": "2026-10-17T09:00:12Z", "target_user": "administrator", "ip_address": "10.10.4.23", "computer": "LAB-WIN01", "logon_type": "3"},
+    {"event_id": 4625, "timestamp": "2026-10-17T09:00:16Z", "target_user": "administrator", "ip_address": "10.10.4.23", "computer": "LAB-WIN01", "logon_type": "3"},
+    {"event_id": 4624, "timestamp": "2026-10-17T09:01:00Z", "target_user": "administrator", "ip_address": "10.10.4.23", "computer": "LAB-WIN01", "logon_type": "3"},
+    {"event_id": 1102, "timestamp": "2026-10-17T09:30:00Z", "target_user": "unknown", "ip_address": "unknown", "computer": "LAB-WIN01"},
+    {"event_id": 4720, "timestamp": "2026-10-17T10:00:00Z", "target_user": "temp.audit", "computer": "LAB-WIN01"}
+  ]
+}
